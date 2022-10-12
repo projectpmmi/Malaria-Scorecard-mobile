@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Malaria ScoreCard Madagascar",
+    "slug": "MalariaScoreCardMagagascar",
+    "version": "1.0.1",
+    "orientation": "default",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.malaria.scorecard",
+      "versionCode": 7
+    },
+    "web": {
+      "favicon": "./assets/logo-favicon.png"
+    }
+  }
+}

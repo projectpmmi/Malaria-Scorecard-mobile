@@ -1,0 +1,44 @@
+{
+    
+        "titre-login":"Authentification",
+        "input-user":"Nom de l'utilisateur",
+        "input-pwd":"Mot de passe",
+        "required-user-message":"Le nom utilisateur est obligatoire",
+        "required-pwd-message":"Le mot de passe est obligatoire",
+        "required-url-message":"L' Url est obligatoire",
+        "invalid-auth-message":"Paramètre d'authentification invalide",
+        "missing-user-message":"L'utilisateur n'existe pas dans la base de données locale",
+
+        "page-login":"Connexion",
+        "page-parameters":"Choix des paramètres",
+        "page-score": "Carte de score",
+
+        "perido-12":"12 derniers mois",
+        "perido-6":"6 derniers mois",
+        "perido-3":"3 derniers mois",
+        "perido-1":"Le mois dernier",
+        "period-relatif":"Mois",
+
+        "selected-ou":" est selectionné",
+        "missing-indicator-message":"Aucun indicateur lié à ce group",
+        "missing-ou-message":"Selectionner une unité d'organisation",
+        "level":"Selectionner le niveau de l'unité d'organisation",
+        "lib-orgunit":"Unités d'organisation",
+        "lib-group":"Selectionner le groupe d'indicateur",
+
+
+        "menu-dashboard": "Tableau de bord",
+        "menu-admin": "Administration",
+        "titre-dashboard":"Choix des paramètres",
+
+        "submit-button":"Soumettre",
+        "tab-period":"Période",
+        "tab-ou":"Unité d'organisation",
+        "tab-period-ind":"Période par Indicateur",
+        "tab-orgunit-ind":"Unité d'organisation par Indicateur",
+        "no-data":"Aucune donnée trouvé",
+        "share-button":"Partage",
+        "titre-table-period":"Carte de score par période",
+        "titre-table-ou":"Carte de score par unité d'organisation"
+    
+}

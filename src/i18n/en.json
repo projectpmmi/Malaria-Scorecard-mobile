@@ -1,0 +1,43 @@
+{
+    
+        "titre-login":"Authentication",
+        "input-user":"User name",
+        "input-pwd":"Password",
+        "required-user-message":"The user name is required",
+        "required-pwd-message":"The password is required",
+        "required-url-message":"Url is required",
+        "invalid-auth-message":"invalid authentification parameters",
+        "missing-user-message":"User don't exist in the local database",
+
+        "page-login":"Login Page",
+        "page-parameters":"Choice of parameters",
+        "page-score": "Scorecard",
+
+        "perido-12":"Last 12 months",
+        "perido-6":"Last 6 months",
+        "perido-3":"Last 3 months",
+        "perido-1":"Last months",
+        "period-relatif":"Month",
+
+        "selected-ou":" is selected",
+        "missing-indicator-message":"No indicator mapped for this group",
+        "missing-ou-message":"Select Organisation unit",
+        "level":"Select orgunit level",
+        "lib-group":"Select indicator group",
+        "lib-orgunit":"Select Organisation unit",
+
+        "menu-dashboard": "Dashboard",
+        "menu-admin": "Administration",
+        "titre-dashboard":"Selection of parameters",
+        "submit-button":"Submit",
+        "tab-period":"Periods",
+        "tab-ou":"Orgunits",
+        "tab-period-ind":"Periods by Indicateur",
+        "tab-orgunit-ind":"Orgunit by Indicateur",
+        "no-data":"No data found",
+        "share-button":"Share",
+        "titre-table-period":"ScoreCard by period",
+        "titre-table-ou":"ScoreCard by Orgunits"
+
+    
+}
